@@ -1,0 +1,7 @@
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\bin\Debug\PolonizatorConsoleApp.exe
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\bin\Debug\PolonizatorConsoleApp.pdb
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\bin\Debug\STAFix24.Tools.Polonizator.dll
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\bin\Debug\STAFix24.Tools.Polonizator.pdb
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\obj\x86\Debug\PolonizatorConsoleApp.csprojResolveAssemblyReference.cache
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\obj\x86\Debug\PolonizatorConsoleApp.exe
+C:\TempProjects\STAFix24_Tools\PolonizatorConsoleApp\obj\x86\Debug\PolonizatorConsoleApp.pdb

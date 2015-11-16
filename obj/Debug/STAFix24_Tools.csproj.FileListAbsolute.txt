@@ -1,0 +1,5 @@
+C:\TempProjects\STAFix24_Tools\bin\Debug\STAFix24.Tools.dll
+C:\TempProjects\STAFix24_Tools\bin\Debug\STAFix24.Tools.pdb
+C:\TempProjects\STAFix24_Tools\obj\Debug\STAFix24_Tools.csprojResolveAssemblyReference.cache
+C:\TempProjects\STAFix24_Tools\obj\Debug\STAFix24.Tools.dll
+C:\TempProjects\STAFix24_Tools\obj\Debug\STAFix24.Tools.pdb

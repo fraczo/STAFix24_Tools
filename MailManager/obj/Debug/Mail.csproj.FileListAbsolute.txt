@@ -1,0 +1,7 @@
+C:\TempProjects\STAFix24_Tools\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\TempProjects\STAFix24_Tools\Mail\bin\Debug\STAFix24.Tools.Mail.dll
+C:\TempProjects\STAFix24_Tools\Mail\bin\Debug\STAFix24.Tools.Mail.pdb
+C:\TempProjects\STAFix24_Tools\Mail\bin\Debug\RestSharp.dll
+C:\TempProjects\STAFix24_Tools\Mail\bin\Debug\RestSharp.xml
+C:\TempProjects\STAFix24_Tools\Mail\obj\Debug\STAFix24.Tools.Mail.dll
+C:\TempProjects\STAFix24_Tools\Mail\obj\Debug\STAFix24.Tools.Mail.pdb

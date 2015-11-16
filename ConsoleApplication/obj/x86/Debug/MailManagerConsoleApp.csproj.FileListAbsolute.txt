@@ -1,0 +1,9 @@
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\bin\Debug\STAFix24.Tools.MailManager.dll
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\bin\Debug\RestSharp.dll
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\bin\Debug\STAFix24.Tools.MailManager.pdb
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\bin\Debug\RestSharp.xml
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\obj\x86\Debug\MailManagerConsoleApp.csprojResolveAssemblyReference.cache
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\TempProjects\STAFix24_Tools\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb

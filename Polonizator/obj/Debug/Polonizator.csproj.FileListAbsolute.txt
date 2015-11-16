@@ -1,0 +1,4 @@
+C:\TempProjects\STAFix24_Tools\Polonizator\bin\Debug\STAFix24.Tools.Polonizator.dll
+C:\TempProjects\STAFix24_Tools\Polonizator\bin\Debug\STAFix24.Tools.Polonizator.pdb
+C:\TempProjects\STAFix24_Tools\Polonizator\obj\Debug\STAFix24.Tools.Polonizator.dll
+C:\TempProjects\STAFix24_Tools\Polonizator\obj\Debug\STAFix24.Tools.Polonizator.pdb
